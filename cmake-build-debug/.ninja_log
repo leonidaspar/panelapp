@@ -1,0 +1,5 @@
+# ninja log v5
+2	388	7363945532980317	CMakeFiles/panelapp.dir/main.cpp.obj	42a7ce6f7505406c
+18	327	7363949492662118	CMakeFiles/panelapp.dir/api/main.cpp.obj	f352a641cfa6d16
+327	417	7363949493527989	panelapp.exe	289005d951748f6
+2	278	7363954220925416	build.ninja	81dbe4beb3f4949d
